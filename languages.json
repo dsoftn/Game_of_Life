@@ -1,0 +1,15 @@
+{
+"language_name": ["0 English", "1 Srpski Latinica", "2 Espanol", "3 Deutsch"], 
+"language_active": ["0 English"], 
+"win_caption": ["John Conway's Game of Life", "Igra Zivota Dzona Konveja", "El juego de la vida de John Conway", "John Conways Spiel des Lebens"],
+"btn_start": ["Start", "Pocetak", "Comienzo", "Start"],
+"btn_stop": ["Stop", "Zaustavi", "Parada", "Stoppen"],
+"show_grid": ["Show grid", "Prikazi mrezu", "Mostrar cuadricula", "Raster anzeigen"],
+"hide_grid": ["Hide grid", "Sakrij mrezu", "Ocultar cuadricula", "Raster ausblenden"],
+"multicolor": ["Multicolor", "Visebojno", "Multicolor", "Mehrfarbig"],
+"solid_color": ["Solid color", "Jednobojno", "Color solido", "Einfarbig"],
+"reset": ["Reset", "Reset", "Reiniciar", "Zurucksetzen"],
+"clear": ["Clear", "Izbrisi", "Claro", "Klar"],
+"generation": ["Generations", "Generacija", "Generaciones", "Generationen"],
+"live_cells": ["Live Cells", "Zivih celija", "Celulas vivas", "Lebende Zellen"]
+}
