@@ -1,3 +1,8 @@
+# ScreenShot  
+
+![Screenshot](screenshot.jpg)  
+
+
 # Game of Life
 
 Game of Life is python app designed using PyGame lib. It is simulation of John Convey's Game of Life.
